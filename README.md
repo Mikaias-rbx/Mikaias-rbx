@@ -5,7 +5,7 @@
 Me chamo Mikaías, tenho 18 anos e sou natural de Brasília DF. Concluí meu ensino médio no Instituto Federal de Brasília (IFB), com curso técnico em informática. Atualmente estou cursando Sistemas para Internet no IFB.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/mika%C3%ADas-de-lima-a82435275/">
+    <a href="https://www.linkedin.com/in/mikaías-de-lima" target="_blank">
         <img
             src="https://custom-icon-badges.demolab.com/github/followers/Mikaias?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Linkedin&logoColor=white"
         />
